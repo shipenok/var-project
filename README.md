@@ -52,7 +52,7 @@ VaR = квантиль(исторические_доходности, α)
 ## Требования
 
 - Python 3.7+
-- Зависимости: yfinance, pandas, numpy, matplotlib, seaborn, scipy
+- Зависимости: yfinance, pandas, numpy, matplotlib, seaborn
 
 ## Примечания
 
